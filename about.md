@@ -4,7 +4,17 @@ title: About
 permalink: /about/
 ---
 
-Hi, this is Fu-Chang, a physicist by training who wants to solve some real-world (and must be fun) problems by statistical evidence using machine learning techniques. At the early and growing stage of buzzy big data era, domain knowledge remains its crutial role to intrepret the results obtaining from machine learning methodology. It should not be treated as a magic black box which can provide *some* products by feeding *some* data. I am so excited to translate the learning process of the machine and to tell the story for the human being. 
+<section class="author">
+  <div class="authorimage box" style="background: url({{site.baseurl}}/assets/img/me_air.jpeg)"></div>
+  <div class="authorinfo box">
+    <!-- <p>Author | Fu-Chang Sun</p> -->
+    <p class="bio">
+      Hi, this is Fu-Chang, a physicist by training who wants to solve some real-world (and must be fun) problems by statistical evidence using machine learning techniques. At the early and growing stage of buzzy big data era, domain knowledge remains its crutial role to intrepret the results obtaining from machine learning methodology. It should not be treated as a magic black box which can provide *some* products by feeding *some* data. I am so excited to translate the learning process of the machine and to tell the story for the human being.
+    </p>
+  </div>
+</section>
+
+
 
 
 You can find the source code of my projects at: <i class="fa fa-github" aria-hidden="true"></i>  [my_github](https://github.com/udothemath1984)  
