@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
@@ -9,7 +9,7 @@ permalink: /about/
   <div class="authorinfo box">
     <!-- <p>Author | Fu-Chang Sun</p> -->
     <p class="bio">
-      Hi, this is Fu-Chang, a physicist by training who wants to solve some real-world (and must be fun) problems by statistical evidence using machine learning techniques. At the early and growing stage of buzzy big data era, domain knowledge remains its crutial role to intrepret the results obtaining from machine learning methodology. It should not be treated as a magic black box which can provide *some* products by feeding *some* data. I am so excited to translate the learning process of the machine and to tell the story for the human being.
+      Hi, this is Fu-Chang, a physicist by training who wants to solve real-world (and must be fun) problem by statistical evidence using machine learning techniques. At the early and growing stage of buzzy big data era, domain knowledge remains its crutial role to intrepret the results obtaining from machine learning methodology. It should not be treated as a magic black box which can provide <b><i>some</i></b> products by feeding <b><i>some</i></b> data. I am so excited to translate the learning process of the machine and to tell the story for the human being.
     </p>
   </div>
 </section>
