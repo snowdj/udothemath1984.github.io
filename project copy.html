@@ -1,0 +1,45 @@
+---
+layout: default
+title: project
+permalink: /project/
+---
+<html lang="en">
+<head>
+  <!-- Latest compiled and minified CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+</head>
+
+<body>
+
+<div class="row">
+    <div class="col-xs-3">
+         <a href="{{ "/archive" | prepend: site.baseurl }}">
+         <div class="authorimage box" style="background: url({{site.baseurl}}/assets/img/me_air.jpeg)"> </div> 
+           <div style='width: 150px; text-align: center; color: black;'>cool a few more word</div>
+         </a>
+    </div>
+
+    <div class="col-xs-3">
+        <a href="{{ "/archive" | prepend: site.baseurl }}">
+        <div class="authorimage box" style="background: url({{site.baseurl}}/assets/img/me_air.jpeg);width: 150px; height: 300px"> </div> 
+          <div style='width: 150px; text-align: center; color: black;'>cool</div>
+        </a>
+    </div>
+</div>
+
+<div class="row">
+  <div class="col-md-9">Wider column</div>
+  <div class="col-md-3">Smaller column</div>
+</div>
+
+
+
+<div>
+
+  <footer class="article-footer" mar>
+    {% include author.html %}
+  </footer>
+</div>
+
+</body>
+</html>

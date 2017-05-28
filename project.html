@@ -1,35 +1,91 @@
 ---
 layout: default
-title: hello
+title: project
 permalink: /project/
+fig_width: "100%"
+fig_height: "300px"
+caption_width: "98%"
 ---
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Bootstrap -->
+   <!--  <meta name="viewport" content="width=device-width, initial-scale=1"> -->
+    <link rel="stylesheet" href="{{ "/css/bootstrap.css" | prepend: site.baseurl }}">
 
-<div>
+  </head>
+<!--   <style>
+  body {
+      margin: 0;
+      padding: 0;
+  }
+  </style> -->
+  <body>
+    <h1>Projects</h1>
+    <div class="row">
+        <div class="col-xs-5">
+             <a href="{{ "/project/2017/05/05/smartcar.html" | prepend: site.baseurl }}">
+             <div class="authorimage box" style="background: url({{site.baseurl}}/assets/img/project_smartcar.jpg);
+             width: {{page.fig_width}}; height: {{page.fig_height}};"> </div> 
+               <div style='width: {{page.caption_width}};  text-align: center; color: black;'>Train a Smartcab to Drive</div>
+             </a>
+        </div>
 
-  <h2>Archive</h2>
+        <div class="col-xs-5">
+            <a href="{{ "/project/2017/04/21/customer_segments.html" | prepend: site.baseurl }}">
+            <div class="authorimage box" style="background: url({{site.baseurl}}/assets/img/project_classification.jpg);
+            width: {{page.fig_width}}; height: {{page.fig_height}};"> </div> 
+              <div style='width: {{page.caption_width}}; text-align: center; color: black;'>Create Customer Segments</div>
+            </a>
+        </div>
 
-  <section class="archive_list">
-    {% for category in site.categories %}
-
-    <div class="category-name">
-      <h2>{{ category | first }}</h2>
     </div>
-    {% for post in category.last %}
 
-    <div class="post_title">
-      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a>
-      <span class="date">{{ post.date | date: "%-d %b, %Y" }}</span>
+    <br></br>
+
+    <div class="row">
+        <div class="col-xs-5">
+             <a href="{{ "/project/2017/03/07/boston_housing.html" | prepend: site.baseurl }}">
+             <div class="authorimage box" style="background: url({{site.baseurl}}/assets/img/project_boston.jpg);
+             width: {{page.fig_width}}; height: {{page.fig_height}};"> </div> 
+               <div style='width: {{page.caption_width}};  text-align: center; color: black;'>Predict Boston Housing Price</div>
+             </a>
+        </div>
+
+        <div class="col-xs-5">
+            <a href="{{ "/project/2017/03/28/finding_donors.html" | prepend: site.baseurl }}">
+            <div class="authorimage box" style="background: url({{site.baseurl}}/assets/img/project_donor.jpg);
+            width: {{page.fig_width}}; height: {{page.fig_height}};"> </div> 
+              <div style='width: {{page.caption_width}}; text-align: center; color: black;'>Find Donor for CharityML</div>
+            </a>
+        </div>
     </div>
 
-    {% endfor %}
+    <br></br>
 
-    {% endfor %}
+    <div class="row">
+        <div class="col-xs-5">
+             <a href="{{ "/archive" | prepend: site.baseurl }}">
+             <div class="authorimage box" style="background: url({{site.baseurl}}/assets/img/project_brain.jpg);
+             width: {{page.fig_width}}; height: {{page.fig_height}};"> </div> 
+               <div style='width: {{page.caption_width}};  text-align: center; color: black;'>Test a Perceptual Phenomenon</div>
+             </a>
+        </div>
 
-  </section>
+        <div class="col-xs-5">
+            <a href="{{ "/archive" | prepend: site.baseurl }}">
+            <div class="authorimage box" style="background: url({{site.baseurl}}/assets/img/project_titanic.jpg);
+            width: {{page.fig_width}}; height: {{page.fig_height}};"> </div> 
+              <div style='width: {{page.caption_width}}; text-align: center; color: black;'>Analyze Titanic Survival</div>
+            </a>
+        </div>
+    </div>
 
-  <footer class="article-footer" mar>
-    {% include author.html %}
-  </footer>
-</div>
+
+
+  </body>
+</html>
+
+
 
 
