@@ -3,7 +3,7 @@ layout: post
 title:  Questionnaire of myself - Part II
 date: 2017-03-16 09:00:00
 categories: questionnaire
-description: These are a little bit more about myself - Part II.
+description: These are a little bit info about myself - Part II.
 ---
 
 Just in case you have missed the [<span class="blue">part I</span>]({% post_url 2017-03-15-questionnaire_1of2 %}).

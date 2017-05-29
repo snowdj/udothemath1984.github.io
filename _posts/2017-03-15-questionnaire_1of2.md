@@ -3,7 +3,7 @@ layout: post
 title:  Questionnaire of myself - Part I
 date: 2017-03-15 09:00:00
 categories: questionnaire
-description: These are a little bit more about myself - Part I
+description: These are a little bit info about myself - Part I
 ---
 
 ### Describe a time you experienced a challenge while building a product/project and how you overcame it:
