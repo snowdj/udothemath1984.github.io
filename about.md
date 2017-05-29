@@ -16,6 +16,4 @@ permalink: /about/
 
 You can find the source code of my projects at: <i class="fa fa-github" aria-hidden="true"></i>  [my_github](https://github.com/udothemath1984).  
 You can send me the email at: <i class="fa fa-paper-plane" aria-hidden="true"></i> <a href="mailto:anappleaday1984@gmail.com?subject=Comment on Fu-Chang's page &amp;">send_email</a>.  
-I might be the one you are looking for: <i class="fa fa-hand-spock-o" aria-hidden="true"></i> [my_resume](https://www.dropbox.com/s/b9n9zunklc4afxn/052917_Fu-Chang_Sun_resume_WA.pdf?dl=0).
-
-<!-- <p><a href="mailto:anappleaday1984@gmail.com?subject=Comment from  &amp;body=yep&amp;">Send email</a></p> -->
+I might be the one you are looking for: <i class="fa fa-hand-spock-o" aria-hidden="true"></i> <a href="{{ "/my_resume/resume.pdf" | prepend: site.baseurl }}"> my_resume</a>
