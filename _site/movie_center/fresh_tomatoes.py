@@ -14,7 +14,7 @@ main_page_head = '''
     <!-- Bootstrap 3 -->
     <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap-theme.min.css">
-    <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+    <script src="https://code.jquery.com/jquery-1.10.1.min.js"></script>
     <script src="https://netdna.bootstrapcdn.com/bootstrap/3.1.0/js/bootstrap.min.js"></script>
     <style type="text/css" media="screen">
         body {
@@ -30,6 +30,10 @@ main_page_head = '''
             top: -12px;
             right: -12px;
             z-index: 9001;
+        }
+        .movetoright {
+            text-align: right;
+            float: right;
         }
         #trailer-video {
             width: 100%;
@@ -104,10 +108,13 @@ main_page_content = '''
 
     <!-- Main Page Content -->
     <div class="container">
-      <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+      <div class="navbar navbar-default navbar-inverse navbar-fixed-top" role="navigation">
         <div class="container">
           <div class="navbar-header">
             <a class="navbar-brand" href="#">My All Time Favorite Movies</a>
+          </div>
+          <div class="navbar-header pull-right">
+            <a class="navbar-brand" href="https://udothemath1984.github.io">EXIT</a>
           </div>
         </div>
       </div>
