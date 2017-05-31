@@ -3,22 +3,22 @@ import media
 
 toy_story = media.Movie("Toy Story",
 						"A story of a boy and his toys that come to life!",
-						"http://www.impawards.com/1995/posters/toy_story_ver1.jpg",
+						"https://www.impawards.com/1995/posters/toy_story_ver1.jpg",
 						"https://www.youtube.com/watch?v=KYz2wyBy3kc")
 
 brothers = media.Movie("Brothers",
 						"The consequences of brothers' actions threaten the foundation of the entire family.",
-						"http://lh3.ggpht.com/_rsdqufw36s8/TCDYRrDqePI/AAAAAAAAB0M/5NsnyZfPkQE/s350/Entre+hermanos+poster.JPG",
+						"https://lh3.ggpht.com/_rsdqufw36s8/TCDYRrDqePI/AAAAAAAAB0M/5NsnyZfPkQE/s350/Entre+hermanos+poster.JPG",
 						"https://www.youtube.com/watch?v=9bWw1VP2iMY")
 
 inception = media.Movie("Inception",
 						"A thief, who steals corporate secrets through use of dream-sharing technology, is given the inverse task of planting an idea into the mind of a CEO.",
-						"http://cdn.collider.com/wp-content/uploads/Inception-movie-poster-7.jpg",
+						"https://cdn.collider.com/wp-content/uploads/Inception-movie-poster-7.jpg",
 						"https://www.youtube.com/watch?v=E1iqGiX0lSg")
 
 life_of_pi = media.Movie("Life Of Pi",
 						"'Life Of Pi' tells the story of a young man's incredible survival at sea against impossible odds.",
-						"http://www.impawards.com/2012/posters/life_of_pi.jpg",
+						"https://www.impawards.com/2012/posters/life_of_pi.jpg",
 						"https://www.youtube.com/watch?v=j9Hjrs6WQ8M")
 
 up = media.Movie("Up",
