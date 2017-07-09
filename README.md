@@ -1,16 +1,7 @@
-# jekyll-simple
+# Welcome to my website
 
-## simple
-simple is a theme designed for blogger using static site generator like jekyll, Hexo etc.
+Hi there. This is Fu-Chang, the owner of the website (https://udothemath1984.github.io/). I plan to continously update my site, as a practice of conveying an idea with my comment. Hopefully you could find something interesting and useful.
 
-Especially for those who writes in both Chinese and English. The font-type setting looks really good when writers use Chinese mixed with English.
+#### Note: jekyll-simple is a theme designed for blogger using static site generator like jekyll, Hexo etc. You can find the template through the link provided at the footnote of the website.
 
-Supposedly, this could work with Japanese as well but never had a chance to try.
 
-## Story behind this theme
-
-It has been long that using font with Chinese in web was a tedious and time-consuming work. It would be almost impossible to make different OS or devices to look the same.
-
-iOS 9 has pulished some new fonts in Chinese and I decided to make one theme that looks good on iOS devices, at the same time, making it acceptable on computers using other fonts.
-
-So mobile goes first, then the macOS.
