@@ -8,5 +8,7 @@ description: Be well prepared, as always.
 
 You might find the [article](http://www.chronicle.com/interactives/cost-of-living?cid=wsinglestory_hp_1) useful while preparing for the new journey.
 
+Another good representation of data visualization in big picture.
+
 
 
