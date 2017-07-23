@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Questionnaire of myself - Part I
+title:  Questionnaire of Myself - Part I
 date: 2017-03-15 09:00:00
 categories: questionnaire
 description: These are a little bit info about myself - Part I

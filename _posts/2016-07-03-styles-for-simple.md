@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Styles at a glance (Intro part II of II)
+title:  Styles at a Glance (Intro part II of II)
 category: jekyll 
 description: Simple is a beautiful but functional jekyll theme. The font-type setting looks really good when writers use CJK mixed with English.
 ---

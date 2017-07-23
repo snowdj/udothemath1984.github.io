@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Flask demo
+title: Flask Demo
 date: 2017-07-23 09:00:00
 
 categories: tools

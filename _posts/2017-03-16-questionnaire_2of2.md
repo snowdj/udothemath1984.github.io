@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  Questionnaire of myself - Part II
+title:  Questionnaire of Myself - Part II
 date: 2017-03-16 09:00:00
 categories: questionnaire
 description: These are a little bit info about myself - Part II.
 ---
 
-Just in case you have missed the [<span class="blue">part I</span>]({% post_url 2017-03-15-questionnaire_1of2 %}).
+Just in case you miss the [<span class="blue">part I</span>]({% post_url 2017-03-15-questionnaire_1of2 %}).
 
 ### What big-data problem would you solve that can benefit society at a large scale?
 
