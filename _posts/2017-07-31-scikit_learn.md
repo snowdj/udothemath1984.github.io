@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Intro of Scikit-learn for Machine Learning
+title: Intro of Scikit-Learn for Machine Learning
 date: 2017-07-31 09:00:00
 
 categories: reading
