@@ -4,7 +4,7 @@ title: Tips of Using Jupyter Notebook
 date: 2017-08-09 09:00:00
 
 categories: tool
-description: make your handy tool becomes more handy
+description: Make your handy tool becomes more handy
 ---
 
 It is always very fascinating to learn something new on your daily tools. Check out these
