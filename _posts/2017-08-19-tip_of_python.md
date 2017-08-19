@@ -10,4 +10,7 @@ description: Practice makes perfection
 How to easily convert a list to a string for display
 [here]{https://www.decalage.info/en/python/print_list}
 
+Map, Filter and Reduce
+[here]{http://book.pythontips.com/en/latest/map_filter.html}
+
 Happy learning! 
