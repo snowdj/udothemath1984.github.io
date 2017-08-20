@@ -13,4 +13,7 @@ How to easily convert a list to a string for display
 Map, Filter and Reduce
 [here]{http://book.pythontips.com/en/latest/map_filter.html}
 
+Few handy tips from the expert!
+[here]{https://bugra.github.io/work/notes/2015-01-03/i-wish-i-knew-these-things-when-i-first-learned-python/}
+
 Happy learning! 
