@@ -10,7 +10,7 @@ description: The data visualization catalogue
 A comprehensive lists of data visualization 
 [Here]{http://www.datavizcatalogue.com/search.html}.
 
-### Image:
+### Snapshot:
 ![]({{site.baseurl}}/assets/img/2017-08-23-data_visual.png)
 
 Discovery -> Storytelling -> Make a case.
