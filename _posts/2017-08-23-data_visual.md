@@ -1,0 +1,17 @@
+---
+layout: post
+title: First Peek of the Data
+date: 2017-08-23 17:00:00
+
+categories: tool
+description: The data visualization catalogue  
+---
+
+A comprehensive lists of data visualization [options]{http://www.datavizcatalogue.com/search.html}.
+
+### Image:
+![]({{site.baseurl}}/assets/img/2017-08-23-data_visual)
+
+Discovery -> Storytelling -> Make a case.
+
+Happy learning!

@@ -2,7 +2,7 @@
 layout: post
 title:  How Colleges Give Students a Flawed Sense of Living Costs
 date: 2017-07-16 09:00:00
-categories: article
+categories: reading
 description: Be well prepared, as always.
 ---
 
