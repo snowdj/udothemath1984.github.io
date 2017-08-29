@@ -12,4 +12,7 @@ There are different ways to make things right, and there are more than enough wa
 Select rows from a DataFrame based on values in a column in pandas:
 [Here](https://stackoverflow.com/questions/17071871/select-rows-from-a-dataframe-based-on-values-in-a-column-in-pandas)
 
+Remove index name in pandas:
+[Here](https://stackoverflow.com/questions/29765548/remove-index-name-in-pandas)
+
 Happy learning!
