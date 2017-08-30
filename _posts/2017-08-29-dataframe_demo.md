@@ -15,4 +15,7 @@ Select rows from a DataFrame based on values in a column in pandas:
 Remove index name in pandas:
 [Here](https://stackoverflow.com/questions/29765548/remove-index-name-in-pandas)
 
+Merging the dataframe
+[Here](https://pandas.pydata.org/pandas-docs/stable/merging.html)
+
 Happy learning!
