@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Python Tool for Debugger
-date: 2017-08-29 09:00:00
+date: 2017-09-02 09:00:00
 
-categories: tool
+categories: tool, reading
 description: Write the code in an efficient way
 ---
 
