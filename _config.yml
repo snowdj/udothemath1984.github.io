@@ -30,3 +30,17 @@ disqus_shortname:
 
 # used this for post_excerpt at index_page
 excerpt_separator: <!--description-->
+
+## add on 9/2/17
+## https://github.com/pattex/jekyll-tagging
+tag_page_layout: tag_page
+tag_page_dir: tag
+
+## add on 9/2/17
+## https://jekyllrb.com/docs/plugins/
+plugins:
+   - jekyll-gist
+   - jekyll-coffeescript
+   - jekyll-assets
+   - another-jekyll-plugin
+ # This will require each of these plugins automatically.

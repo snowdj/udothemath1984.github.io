@@ -5,6 +5,7 @@ date: 2017-09-02 09:00:00
 
 categories: tool
 description: Write the code in an efficient way
+tags: python tool
 ---
 
 [software carpentry](https://software-carpentry.org/lessons/)
