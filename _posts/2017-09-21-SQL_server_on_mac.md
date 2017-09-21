@@ -9,4 +9,6 @@ description: Essential tool using SQL server
 
 David Neal has provided a detailed [instruction](https://medium.com/@reverentgeek/sql-server-running-on-a-mac-3efafda48861) to run SQL on a Mac. I could successfully install all the tools and work on a example on my 2010 macbook pro with 10.12.6 Sierra.
 
+[Use Visual Studio Code to create and run Transact-SQL scripts for SQL Server](https://docs.microsoft.com/en-us/sql/linux/sql-server-linux-develop-use-vscode)
+
 Happy learning! 
