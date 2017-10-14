@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+
+  <style type="text/css">
+/*      .wrapper { background-color: #cccccc; }
+      body { margin: 0; padding: 0}*/
+/*      .page-content { background-color: #cccccc; }*/
+  </style>
+  <script src="https://use.fontawesome.com/c0a706412e.js"></script>  
+  {% include head.html %}
+  <body>
+    <div class="page-content">
+
+
+      <div class="container">
+        <!-- <div class="three columns">
+          {% include header.html %}
+        </div> -->
+
+        <div class="navbar navbar-default navbar-inverse navbar-fixed-top" role="navigation">
+        <div class="container">
+          <div class="navbar-header">
+            <a class="navbar-brand" href="#">My All Time Favorite Movies</a>
+          </div>
+          <div class="navbar-header pull-right">
+            <a class="navbar-brand" href="https://udothemath1984.github.io">EXIT</a>
+          </div>
+        </div>
+      </div>
+
+
+
+
+
+
+        <div class="nine columns" style="z-index:100;">
+          <div class="wrapper">
+            {{ content }}
+          </div>
+        </div>
+      </div>
+
+
+
+      {% include footer.html %} 
+    </div>
+  </body>
+</html>
