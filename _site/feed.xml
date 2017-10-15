@@ -1,13 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Let Me Tell You some Stories</title>
+    <title>Hello World</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 23 Sep 2017 15:15:39 -0400</pubDate>
-    <lastBuildDate>Sat, 23 Sep 2017 15:15:39 -0400</lastBuildDate>
+    <pubDate>Sun, 15 Oct 2017 15:47:44 -0400</pubDate>
+    <lastBuildDate>Sun, 15 Oct 2017 15:47:44 -0400</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>The Guidance of Gradient Boosting and Beyond</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://www.analyticsvidhya.com/blog/2016/02/complete-guide-parameter-tuning-gradient-boosting-gbm-python/&quot;&gt;GBM&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/&quot;&gt;XGBoost&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.analyticsvidhya.com/blog/2017/06/which-algorithm-takes-the-crown-light-gbm-vs-xgboost/&quot;&gt;Light GBM&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Happy learning!&lt;/p&gt;
+</description>
+        <pubDate>Fri, 13 Oct 2017 05:00:00 -0400</pubDate>
+        <link>http://localhost:4000/tool/2017/10/13/boosting.html</link>
+        <guid isPermaLink="true">http://localhost:4000/tool/2017/10/13/boosting.html</guid>
+        
+        
+        <category>tool</category>
+        
+      </item>
+    
+      <item>
+        <title>How Feature Engineering Can Help You Do Well in a Kaggle Competition</title>
+        <description>&lt;p&gt;It has been said that &lt;a href=&quot;https://www.slideshare.net/gabrielspmoreira/feature-engineering-getting-most-out-of-data-for-predictive-models&quot;&gt;feature engineering&lt;/a&gt; is one of the most important factor of getting good results (accuracy) in data science &lt;a href=&quot;https://www.kaggle.com/c/outbrain-click-prediction&quot;&gt;competition&lt;/a&gt;. Here is a hands-on demonstraction, combining with the &lt;a href=&quot;https://www.kaggle.com/gspmoreira/unveiling-page-views-csv-with-pyspark&quot;&gt;big data tools&lt;/a&gt; for solving the problem.&lt;/p&gt;
+
+&lt;p&gt;Happy learning!&lt;/p&gt;
+</description>
+        <pubDate>Sat, 30 Sep 2017 05:00:00 -0400</pubDate>
+        <link>http://localhost:4000/tool/2017/09/30/feature_engineering.html</link>
+        <guid isPermaLink="true">http://localhost:4000/tool/2017/09/30/feature_engineering.html</guid>
+        
+        
+        <category>tool</category>
+        
+      </item>
     
       <item>
         <title>8 Ways to Stand Out at a Career Fair</title>
@@ -24863,46 +24897,6 @@ gAACCCCAAAIIIIBAERL4PyPJunbYz9f5AAAAAElFTkSuQmCC
         <pubDate>Sun, 10 Sep 2017 05:00:00 -0400</pubDate>
         <link>http://localhost:4000/tool/2017/09/10/ml_projects.html</link>
         <guid isPermaLink="true">http://localhost:4000/tool/2017/09/10/ml_projects.html</guid>
-        
-        
-        <category>tool</category>
-        
-      </item>
-    
-      <item>
-        <title>Join and Merge Pandas Dataframe</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://chrisalbon.com/python/pandas_join_merge_dataframe.html&quot;&gt;Minimal Working Example&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Happy learning!&lt;/p&gt;
-</description>
-        <pubDate>Sat, 09 Sep 2017 05:00:00 -0400</pubDate>
-        <link>http://localhost:4000/tool/2017/09/09/python_dataframe.html</link>
-        <guid isPermaLink="true">http://localhost:4000/tool/2017/09/09/python_dataframe.html</guid>
-        
-        
-        <category>tool</category>
-        
-      </item>
-    
-      <item>
-        <title>Python Tool for Debugger</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://software-carpentry.org/lessons/&quot;&gt;software carpentry&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://katyhuff.github.io/python-testing/&quot;&gt;Python Testing and Continuous Integration&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://docs.pytest.org/en/latest/&quot;&gt;pytest&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://docs.python.org/3/library/pdb.html&quot;&gt;pdb&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Happy learning!&lt;/p&gt;
-</description>
-        <pubDate>Sat, 02 Sep 2017 05:00:00 -0400</pubDate>
-        <link>http://localhost:4000/tool/2017/09/02/python_debugger.html</link>
-        <guid isPermaLink="true">http://localhost:4000/tool/2017/09/02/python_debugger.html</guid>
-        
-        <category>python</category>
-        
-        <category>tool</category>
         
         
         <category>tool</category>
