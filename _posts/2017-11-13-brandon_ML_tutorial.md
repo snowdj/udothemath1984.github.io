@@ -3,7 +3,7 @@ layout: post
 title: Machine Learning Tutorial
 date: 2017-11-13 09:00:00
 
-categories: video
+categories: tools
 description: Resource: Brandon Rohrer, a Data Scientist of facebook. 
 ---
 
