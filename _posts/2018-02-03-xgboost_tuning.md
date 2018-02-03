@@ -1,11 +1,13 @@
 ---
 layout: post
 title: Tips for Tuning XGBoost Parameter
-date: 2018-02-02 09:00:00
+date: 2018-02-03 09:00:00
 
 categories: tool
-description: Listen to the expert
+description: Wisdom compilation 
 ---
+
+[A Gentle Introduction to XGBoost for Applied Machine Learning](https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/) from Machine Learning Mastery
 
 [How to Tuning XGboost in an efficient way](https://www.kaggle.com/general/17120) from Kaggle discussion  
 
