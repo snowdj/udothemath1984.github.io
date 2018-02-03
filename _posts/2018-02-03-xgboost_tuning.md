@@ -14,9 +14,7 @@ description: Wisdom compilation
 [Complete Guide to Parameter Tuning in XGBoost (with codes in Python)
 ](https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/) from Jain
 
-[Hyperparameter tuning in XGBoost](https://cambridgespark.com/content/tutorials/hyperparameter-tuning-in-xgboost/index.html) from Cambridge Spark
-
-[Tuning the regularization in the tree-based xgboost](https://medium.com/data-design/xgboost-hi-im-gamma-what-can-i-do-for-you-and-the-tuning-of-regularization-a42ea17e6ab6) from Laurae
+[Getting Started with XGBoost](https://cambridgespark.com/content/tutorials/getting-started-with-xgboost/index.html), [Hyperparameter tuning in XGBoost](https://cambridgespark.com/content/tutorials/hyperparameter-tuning-in-xgboost/index.html) from Cambridge Spark
 
 
 Slides:  
